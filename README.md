@@ -52,11 +52,11 @@ Repository ini dibuat untuk memenuhi tugas pertemuan ke 4 Bahasa Pemrograman
 
 11. Setelah dicopy, kita paste / klik kanan > Git bush here pada penyimpanan lokal yang kita inginkan.
 
-    ![Tutorial Git](Foto/gitbush.PNG)
+    ![Tutorial Git](Foto/gitbush.png)
 
 12. Lalu kita akan ditampilkan ke halaman CMD / Command Promp.  ketikkan perintah untuk mengClone copyan git hub ke local tadi dengan perintah <i>git clone</i>
 
-    ![Tutorial Git](Foto/gittclone.PNG)
+    ![Tutorial Git](Foto/gittclone.png)
 
 13. Langkah selanjutnya kita buka file README.md menggunakan Notepad / aplikasi codding lainnya pada folder LatihanVCS yang sudah kita buat tadi.
 
@@ -72,7 +72,7 @@ Repository ini dibuat untuk memenuhi tugas pertemuan ke 4 Bahasa Pemrograman
 
 16. Terakhir untuk meng-apply settingan yang kita buat agar dapat ditampilkan di website ketikkan perintah <i>git push</i>
 
-    ![Tutorial Git](Foto/gitpush.PNG)
+    ![Tutorial Git](Foto/gitpush.png)
 
     <i>Untuk akun baru biasanya akan diperintahkan login username yang dibuat tadi , maka kita tinggal masukan usernam/email dan passwordnya saja.</i>
 
