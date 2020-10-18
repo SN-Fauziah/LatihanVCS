@@ -52,7 +52,7 @@ Repository ini dibuat untuk memenuhi tugas pertemuan ke 4 Bahasa Pemrograman
 
 11. Setelah dicopy, kita paste / klik kanan > Git bush here pada penyimpanan lokal yang kita inginkan.
 
-    ![Tutorial Git](Foto/Gitbushhere.PNG)
+    ![Tutorial Git](Foto/gitbush.PNG)
 
 12. Lalu kita akan ditampilkan ke halaman CMD / Command Promp.  ketikkan perintah untuk mengClone copyan git hub ke local tadi dengan perintah <i>git clone</i>
 
