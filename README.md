@@ -12,6 +12,6 @@ Repository ini dibuat untuk memenuhi tugas Bahasa Pemrograman
 ## LANGKAH - LANGKAH PENGGUNAAN GIT
 1. Langkah pertama tentunya kita harus mempunyai aplikasi Git terlebih dahulu. [Download aplikasi Git](https://git-scm.com/downloads)
 
-1[Tuorial Git](Foto/Download.PNG)
+![Tutorial Git](Foto/Download.PNG)
 
-2. 
+2.  
