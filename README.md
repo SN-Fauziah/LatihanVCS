@@ -18,15 +18,15 @@ Repository ini dibuat untuk memenuhi tugas pertemuan ke 4 Bahasa Pemrograman
 
     ![Tutorial Git](Foto/Install.PNG)
 
-3. Cek versi git, apakah sudah sesuai dengan sistem operasi perangkat kita atau belum dengan perintah <i>git --version</i> lalu enter.
+3. Cek versi git, apakah sudah sesuai dengan sistem operasi perangkat kita atau belum dengan perintah <i><u>git --version</u></i> lalu enter.
 
     ![Tutorial Git](Foto/Cekversion.PNG)
 
-4. Selanjutnya kita setting User dan Email. Dengan perintah <i>git config --global user.name "Namaku" </i>
+4. Selanjutnya kita setting User dan Email. Dengan perintah <i><u>git config --global user.name "Namaku" </u></i>
 
     ![Tutorial Git](Foto/Tambahuser.PNG)
 
-5. Setting email dengan perintah <i>git config --global user.email "example@gmail.com" </i>
+5. Setting email dengan perintah <i><u>git config --global user.email "example@gmail.com" </u></i>
 
     ![Tutorial Git](Foto/Tambahemail.PNG)
 
@@ -54,7 +54,7 @@ Repository ini dibuat untuk memenuhi tugas pertemuan ke 4 Bahasa Pemrograman
 
     ![Tutorial Git](Foto/gitbush.png)
 
-12. Lalu kita akan ditampilkan ke halaman CMD / Command Promp.  ketikkan perintah untuk mengClone copyan git hub ke local tadi dengan perintah <i>git clone</i>
+12. Lalu kita akan ditampilkan ke halaman CMD / Command Promp.  ketikkan perintah untuk mengClone copyan git hub ke local tadi dengan perintah <i><u>git clone</u></i>
 
     ![Tutorial Git](Foto/gittclone.png)
 
@@ -62,15 +62,15 @@ Repository ini dibuat untuk memenuhi tugas pertemuan ke 4 Bahasa Pemrograman
 
     ![Tutorial Git](Foto/Editreadme.PNG)
 
-14. Setelah kita menambahkan, mengedit, atau mengisi yang kita mau pada file README.md tadi kita tambahkan perintah untuk mensave settingan yang kita buat tadi dengan perintah <i>git add .</i>
+14. Setelah kita menambahkan, mengedit, atau mengisi yang kita mau pada file README.md tadi kita tambahkan perintah untuk mensave settingan yang kita buat tadi dengan perintah <i><u>git add .</u></i>
 
     ![Tutorial Git](Foto/Gitadd.PNG)
 
-15. Lalu ketikkan perintah selanjutnya <i>git commit -m "Update"</i>
+15. Lalu ketikkan perintah selanjutnya <i><u>git commit -m "Update"</u></i>
 
     ![Tutorial Git](Foto/gitcommit.PNG)
 
-16. Terakhir untuk meng-apply settingan yang kita buat agar dapat ditampilkan di website ketikkan perintah <i>git push</i>
+16. Terakhir untuk meng-apply settingan yang kita buat agar dapat ditampilkan di website ketikkan perintah <i><u>git push</u></i>
 
     ![Tutorial Git](Foto/gitpush.png)
 
@@ -82,4 +82,4 @@ Repository ini dibuat untuk memenuhi tugas pertemuan ke 4 Bahasa Pemrograman
     ![Tutorial Git](Foto/Finish.PNG)
 
 
-    ##SELAMAT MENCOBA~~~
+## SELAMAT MENCOBA~~~
