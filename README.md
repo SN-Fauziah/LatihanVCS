@@ -20,8 +20,8 @@ Repository ini dibuat untuk memenuhi tugas pertemuan ke 4 Bahasa Pemrograman
 
 3. Cek versi git, apakah sudah sesuai dengan sistem operasi perangkat kita atau belum dengan perintah <i>git --version</i> lalu enter.
 
-![Tutorial Git](Foto/Cekversion.PNG)
+![Tutorial Git](Foto/Cek Version.PNG)
 
 4. Selanjutnya kita tambahkan User dan Email. Dengan perintah <i>git config --global user.name </i>
 
-![Tutorial Git](Foto/Tambahuser.PNG)
+![Tutorial Git](Foto/Tambah User.PNG)
