@@ -1,5 +1,5 @@
 # LatihanVCS
-![gambar git scm](Foto/LOGOUPB.PNG)
+![gambar git scm](Foto/LOGOUPB.png)
 
 
 Repository ini dibuat untuk memenuhi tugas Bahasa Pemrograman
